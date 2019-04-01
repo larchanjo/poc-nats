@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: poc.nats.server
+---
+testFramework: junit
+sourceLanguage: java
